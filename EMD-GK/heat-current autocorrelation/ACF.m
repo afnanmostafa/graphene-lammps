@@ -9,6 +9,8 @@
 clear
 clc
 
+aaaaadummy text
+
 %% %% SECTION 1: getting the total number of lines/rows in data file %% %%
 fid = fopen('J0Jt.data');
 count = 0;
