@@ -7,6 +7,6 @@ There are 4 files in this current directory:
 
 2) K_plot.m = thermal conductivity tensor --> plotting evolution of k w.r.to time, MATLAB code
 
-4) log.lammps = sample log file from MD 
+3) log.lammps = sample log file from MD 
 
-5) README.txt = this file
+4) README.txt = this file
