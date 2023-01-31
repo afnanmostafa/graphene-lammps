@@ -9,7 +9,7 @@
 clear
 clc
 
-aaaaadummy text
+%% sample testing %%
 
 %% %% SECTION 1: getting the total number of lines/rows in data file %% %%
 fid = fopen('J0Jt.data');
